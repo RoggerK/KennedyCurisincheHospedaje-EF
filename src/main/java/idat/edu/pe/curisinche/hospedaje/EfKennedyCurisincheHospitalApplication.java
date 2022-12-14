@@ -1,4 +1,4 @@
-package idat.edu.pe.curisinche.hospital;
+package idat.edu.pe.curisinche.hospedaje;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
