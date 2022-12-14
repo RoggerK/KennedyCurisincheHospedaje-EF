@@ -30,4 +30,9 @@ public class HospedajeController {
 		service.guardar(dto);
 	}
 	
+	@GetMapping("/asignar")
+	public @ResponseBody void asignar() {
+		service.asignar();
+	}
+	
 }
